@@ -1,4 +1,4 @@
-bfs.js
+Grip.js
 ======
 
 Simple BFS in JavaScript for trees. The idea here is to be able to find a leaf in a tree from a root, without `document.getElementById()`, because when creating dynamic content, avoiding excessive reflow is possible when a tree is constructed before it's appended to the visual DOM.
